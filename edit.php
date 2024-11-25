@@ -1,8 +1,8 @@
 <?php
 $servername = "localhost";
-$username = "root";
-$password = "";
-$database = "web2p3";
+$username = "php_user";
+$password = "password";
+$database = "students";
 //create connection with my database.
 $connection = new mysqli($servername, $username, $password, $database);
 $id = $name = $email = $phone = $address = "";
