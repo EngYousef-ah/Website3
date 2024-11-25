@@ -1,0 +1,15 @@
+body {
+    background-color: #a6a6a6;
+}
+
+.bg {
+    background-color: #49484830;
+    padding: 30px;
+    margin: 10px;
+    border-radius: 56px;
+}
+
+.t {
+    justify-content: center;
+    display: flex;
+}
